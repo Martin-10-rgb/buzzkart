@@ -28,7 +28,7 @@ pre{background:#0c121a;padding:10px;border-radius:10px;white-space:pre-wrap}</st
     <h3>Affiliate IDs</h3>
     <div class="row"><label>Temu ID</label><input id="temuId" placeholder="YOUR_TEMU_ID"/></div>
     <div class="row"><label>Amazon tag</label><input id="amzTag" placeholder="yourtag-20"/></div>
-    <div class="btns"><button id="gen">Generate files</button></div>
+    <div class="btns"><button id="fetcher">Fetch Viral Product</button><button id="gen">Generate files</button></div>
     <p>JSON to paste into <code>products.json</code>:</p>
     <pre id="out"></pre>
   </div>
@@ -64,5 +64,21 @@ location.replace(apply(url));
   const blob=new Blob([red],{type:'text/html'});const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='p/'+id+'.html';a.click();
 };
 const urlInput=document.getElementById('url'),titleInput=document.getElementById('title'),descInput=document.getElementById('desc'),priceInput=document.getElementById('price'),sourceInput=document.getElementById('source'),catsInput=document.getElementById('cats'),imageInput=document.getElementById('image'),videoInput=document.getElementById('video');
+document.getElementById('fetcher').onclick=async()=>{
+  try {
+    const r=await fetch('viral_products.json');
+    const viral_products = await r.json();
+    const product = viral_products[Math.floor(Math.random() * viral_products.length)];
+    urlInput.value = product.url || '';
+    titleInput.value = product.title || '';
+    descInput.value = product.description || '';
+    priceInput.value = product.price_usd || '';
+    sourceInput.value = product.source || 'temu';
+    catsInput.value = product.categories || '';
+    imageInput.value = product.image || '';
+  } catch(e) {
+    alert('Could not fetch viral products. Make sure viral_products.json exists.');
+  }
+};
 </script>
 </body></html>

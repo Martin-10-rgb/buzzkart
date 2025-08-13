@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "id": "temu-portable-blender",
+    "title": "Portable Electric Blender",
+    "description": "Make fresh smoothies on the go with this USB-rechargeable portable blender. Compact, powerful, and easy to clean.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": ["Home", "Kitchen", "Gadgets"],
+    "price_usd": 24.99,
+    "image": "assets/placeholder.png",
+    "video": null,
+    "url": "https://www.temu.com/example-product-1",
+    "added_at": 1678886400
+  },
+  {
+    "id": "amazon-smart-watch",
+    "title": "Smart Watch with Fitness Tracker",
+    "description": "Track your steps, heart rate, and sleep patterns with this stylish and affordable smart watch. Compatible with iOS and Android.",
+    "type": "affiliate",
+    "source": "amazon",
+    "categories": ["Electronics", "Wearables", "Fitness"],
+    "price_usd": 49.99,
+    "image": "assets/placeholder.png",
+    "video": null,
+    "url": "https://www.amazon.com/example-product-2",
+    "added_at": 1678972800
+  },
+  {
+    "id": "aliexpress-led-strip-lights",
+    "title": "RGB LED Strip Lights",
+    "description": "Transform your room with these remote-controlled RGB LED strip lights. Perfect for gaming setups, home theaters, or accent lighting.",
+    "type": "dropship",
+    "source": "aliexpress",
+    "categories": ["Home", "Decor", "Lighting"],
+    "price_usd": 15.00,
+    "image": "assets/placeholder.png",
+    "video": null,
+    "url": "https://www.aliexpress.com/example-product-3",
+    "added_at": 1679059200
+  }
+]
