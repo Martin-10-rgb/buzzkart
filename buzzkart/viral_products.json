@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://www.temu.com/example-viral-1",
+    "title": "Sunset Lamp Projector",
+    "description": "Create a relaxing and romantic atmosphere with this sunset lamp. It projects a beautiful, warm glow that mimics a natural sunset.",
+    "price_usd": 12.50,
+    "source": "temu",
+    "categories": "Decor,Lighting,Home",
+    "image": "assets/placeholder.png"
+  },
+  {
+    "url": "https://www.amazon.com/example-viral-2",
+    "title": "Mini Portable Projector",
+    "description": "Turn any room into a home theater with this mini portable projector. Connects to your phone, laptop, or gaming console.",
+    "price_usd": 65.00,
+    "source": "amazon",
+    "categories": "Electronics,Gadgets,Home",
+    "image": "assets/placeholder.png"
+  },
+  {
+    "url": "https://www.aliexpress.com/example-viral-3",
+    "title": "Levitating Moon Lamp",
+    "description": "Amaze your friends with this incredible levitating moon lamp. It floats and spins in mid-air, creating a stunning visual effect.",
+    "price_usd": 89.99,
+    "source": "aliexpress",
+    "categories": "Decor,Lighting,Gadgets",
+    "image": "assets/placeholder.png"
+  }
+]
