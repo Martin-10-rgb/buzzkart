@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "temu-viral-1",
+    "title": "Viral Product 1",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Auto",
+      "Fitness"
+    ],
+    "price_usd": 27.89,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755087097,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-2",
+    "title": "Viral Product 2",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "DIY",
+      "Toys"
+    ],
+    "price_usd": 74.19,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755087037,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-3",
+    "title": "Viral Product 3",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Toys",
+      "Outdoors"
+    ],
+    "price_usd": 10.7,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755086977,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-4",
+    "title": "Viral Product 4",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Office",
+      "DIY"
+    ],
+    "price_usd": 99.26,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755086917,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-5",
+    "title": "Viral Product 5",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Tools",
+      "Toys"
+    ],
+    "price_usd": 80.84,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755086857,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-6",
+    "title": "Viral Product 6",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Gadgets",
+      "Outdoors"
+    ],
+    "price_usd": 176.37,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755086797,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-7",
+    "title": "Viral Product 7",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Gifts",
+      "Auto"
+    ],
+    "price_usd": 90.05,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755086737,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-8",
+    "title": "Viral Product 8",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Collectibles",
+      "Tech"
+    ],
+    "price_usd": 107.37,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755086677,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-9",
+    "title": "Viral Product 9",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Auto",
+      "Beauty"
+    ],
+    "price_usd": 62.33,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755086617,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "amazon-viral-10",
+    "title": "Viral Product 10",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "affiliate",
+    "source": "amazon",
+    "categories": [
+      "Tools",
+      "Gifts"
+    ],
+    "price_usd": 135.53,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.amazon.com/dp/REPLACE_ASIN",
+    "added_at": 1755086557,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-11",
+    "title": "Viral Product 11",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Gifts",
+      "Collectibles"
+    ],
+    "price_usd": 134.38,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755086497,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-12",
+    "title": "Viral Product 12",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "DIY",
+      "Gaming"
+    ],
+    "price_usd": 144.31,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755086437,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "aliexpress-viral-13",
+    "title": "Viral Product 13",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "aliexpress",
+    "categories": [
+      "Fashion",
+      "Beauty"
+    ],
+    "price_usd": 39.75,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://s.click.aliexpress.com/e/EXAMPLE",
+    "added_at": 1755086377,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-14",
+    "title": "Viral Product 14",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Skincare",
+      "Toys"
+    ],
+    "price_usd": 185.78,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755086317,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-15",
+    "title": "Viral Product 15",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Gaming",
+      "Fashion"
+    ],
+    "price_usd": 112.66,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755086257,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-16",
+    "title": "Viral Product 16",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Gaming",
+      "Gadgets"
+    ],
+    "price_usd": 65.61,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755086197,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-17",
+    "title": "Viral Product 17",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Tools",
+      "Tech"
+    ],
+    "price_usd": 143.87,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755086137,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-18",
+    "title": "Viral Product 18",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Auto",
+      "Tech"
+    ],
+    "price_usd": 74.69,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755086077,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-19",
+    "title": "Viral Product 19",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Skincare",
+      "Decor"
+    ],
+    "price_usd": 15.37,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755086017,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-20",
+    "title": "Viral Product 20",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Kitchen",
+      "Gifts"
+    ],
+    "price_usd": 102.91,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755085957,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "amazon-viral-21",
+    "title": "Viral Product 21",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "affiliate",
+    "source": "amazon",
+    "categories": [
+      "Pets",
+      "Fashion"
+    ],
+    "price_usd": 174.8,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.amazon.com/dp/REPLACE_ASIN",
+    "added_at": 1755085897,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-22",
+    "title": "Viral Product 22",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Beauty",
+      "Skincare"
+    ],
+    "price_usd": 73.46,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755085837,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "amazon-viral-23",
+    "title": "Viral Product 23",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "affiliate",
+    "source": "amazon",
+    "categories": [
+      "Beauty",
+      "DIY"
+    ],
+    "price_usd": 119.48,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.amazon.com/dp/REPLACE_ASIN",
+    "added_at": 1755085777,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-24",
+    "title": "Viral Product 24",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Office",
+      "DIY"
+    ],
+    "price_usd": 40.86,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755085717,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-25",
+    "title": "Viral Product 25",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Pets",
+      "Skincare"
+    ],
+    "price_usd": 135.01,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755085657,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "aliexpress-viral-26",
+    "title": "Viral Product 26",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "aliexpress",
+    "categories": [
+      "Office",
+      "Tools"
+    ],
+    "price_usd": 171.75,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://s.click.aliexpress.com/e/EXAMPLE",
+    "added_at": 1755085597,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "aliexpress-viral-27",
+    "title": "Viral Product 27",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "aliexpress",
+    "categories": [
+      "Office",
+      "Auto"
+    ],
+    "price_usd": 115.26,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://s.click.aliexpress.com/e/EXAMPLE",
+    "added_at": 1755085537,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "amazon-viral-28",
+    "title": "Viral Product 28",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "affiliate",
+    "source": "amazon",
+    "categories": [
+      "Home",
+      "Fashion"
+    ],
+    "price_usd": 156.64,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.amazon.com/dp/REPLACE_ASIN",
+    "added_at": 1755085477,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-29",
+    "title": "Viral Product 29",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Pets",
+      "Toys"
+    ],
+    "price_usd": 189.17,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755085417,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "amazon-viral-30",
+    "title": "Viral Product 30",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "affiliate",
+    "source": "amazon",
+    "categories": [
+      "Gifts",
+      "Fitness"
+    ],
+    "price_usd": 127.93,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.amazon.com/dp/REPLACE_ASIN",
+    "added_at": 1755085357,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-31",
+    "title": "Viral Product 31",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Office",
+      "Home"
+    ],
+    "price_usd": 10.85,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755085297,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-32",
+    "title": "Viral Product 32",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Kitchen",
+      "Accessories"
+    ],
+    "price_usd": 154.47,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755085237,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "aliexpress-viral-33",
+    "title": "Viral Product 33",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "aliexpress",
+    "categories": [
+      "Fashion",
+      "Office"
+    ],
+    "price_usd": 106.59,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://s.click.aliexpress.com/e/EXAMPLE",
+    "added_at": 1755085177,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "aliexpress-viral-34",
+    "title": "Viral Product 34",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "aliexpress",
+    "categories": [
+      "Office",
+      "Decor"
+    ],
+    "price_usd": 156.74,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://s.click.aliexpress.com/e/EXAMPLE",
+    "added_at": 1755085117,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-35",
+    "title": "Viral Product 35",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Fitness",
+      "Skincare"
+    ],
+    "price_usd": 26.65,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755085057,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "aliexpress-viral-36",
+    "title": "Viral Product 36",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "aliexpress",
+    "categories": [
+      "Gadgets",
+      "Decor"
+    ],
+    "price_usd": 95.64,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://s.click.aliexpress.com/e/EXAMPLE",
+    "added_at": 1755084997,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-37",
+    "title": "Viral Product 37",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Kitchen",
+      "Gifts"
+    ],
+    "price_usd": 74.82,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755084937,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-38",
+    "title": "Viral Product 38",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Home",
+      "Toys"
+    ],
+    "price_usd": 101.73,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755084877,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "amazon-viral-39",
+    "title": "Viral Product 39",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "affiliate",
+    "source": "amazon",
+    "categories": [
+      "Collectibles",
+      "Skincare"
+    ],
+    "price_usd": 68.7,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.amazon.com/dp/REPLACE_ASIN",
+    "added_at": 1755084817,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-40",
+    "title": "Viral Product 40",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Tech",
+      "Decor"
+    ],
+    "price_usd": 171.51,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755084757,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-41",
+    "title": "Viral Product 41",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Toys",
+      "Office"
+    ],
+    "price_usd": 148.51,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755084697,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-42",
+    "title": "Viral Product 42",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Outdoors",
+      "Kitchen"
+    ],
+    "price_usd": 172.12,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755084637,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-43",
+    "title": "Viral Product 43",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Decor",
+      "Outdoors"
+    ],
+    "price_usd": 66.27,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755084577,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-44",
+    "title": "Viral Product 44",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Gaming",
+      "Pets"
+    ],
+    "price_usd": 168.98,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755084517,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-45",
+    "title": "Viral Product 45",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Gadgets",
+      "Tools"
+    ],
+    "price_usd": 96.82,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755084457,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-46",
+    "title": "Viral Product 46",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Accessories",
+      "Fitness"
+    ],
+    "price_usd": 45.43,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755084397,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-47",
+    "title": "Viral Product 47",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Pets",
+      "Fashion"
+    ],
+    "price_usd": 95.09,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755084337,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "aliexpress-viral-48",
+    "title": "Viral Product 48",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "aliexpress",
+    "categories": [
+      "Decor",
+      "Auto"
+    ],
+    "price_usd": 93.34,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://s.click.aliexpress.com/e/EXAMPLE",
+    "added_at": 1755084277,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "amazon-viral-49",
+    "title": "Viral Product 49",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "affiliate",
+    "source": "amazon",
+    "categories": [
+      "Fashion",
+      "Gifts"
+    ],
+    "price_usd": 169.66,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.amazon.com/dp/REPLACE_ASIN",
+    "added_at": 1755084217,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "amazon-viral-50",
+    "title": "Viral Product 50",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "affiliate",
+    "source": "amazon",
+    "categories": [
+      "Kitchen",
+      "Home"
+    ],
+    "price_usd": 120.72,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.amazon.com/dp/REPLACE_ASIN",
+    "added_at": 1755084157,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "aliexpress-viral-51",
+    "title": "Viral Product 51",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "aliexpress",
+    "categories": [
+      "Collectibles",
+      "Skincare"
+    ],
+    "price_usd": 55.18,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://s.click.aliexpress.com/e/EXAMPLE",
+    "added_at": 1755084097,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-52",
+    "title": "Viral Product 52",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Gaming",
+      "Office"
+    ],
+    "price_usd": 108.56,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755084037,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-53",
+    "title": "Viral Product 53",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Pets",
+      "Gifts"
+    ],
+    "price_usd": 38.13,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755083977,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "aliexpress-viral-54",
+    "title": "Viral Product 54",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "aliexpress",
+    "categories": [
+      "Skincare",
+      "Beauty"
+    ],
+    "price_usd": 128.52,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://s.click.aliexpress.com/e/EXAMPLE",
+    "added_at": 1755083917,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "aliexpress-viral-55",
+    "title": "Viral Product 55",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "aliexpress",
+    "categories": [
+      "Gaming",
+      "Decor"
+    ],
+    "price_usd": 90.89,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://s.click.aliexpress.com/e/EXAMPLE",
+    "added_at": 1755083857,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-56",
+    "title": "Viral Product 56",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Toys",
+      "Outdoors"
+    ],
+    "price_usd": 83.2,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755083797,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-57",
+    "title": "Viral Product 57",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Decor",
+      "Kitchen"
+    ],
+    "price_usd": 141.47,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755083737,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-58",
+    "title": "Viral Product 58",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Accessories",
+      "Home"
+    ],
+    "price_usd": 12.59,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755083677,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "aliexpress-viral-59",
+    "title": "Viral Product 59",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "aliexpress",
+    "categories": [
+      "Pets",
+      "Accessories"
+    ],
+    "price_usd": 51.86,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://s.click.aliexpress.com/e/EXAMPLE",
+    "added_at": 1755083617,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "aliexpress-viral-60",
+    "title": "Viral Product 60",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "aliexpress",
+    "categories": [
+      "Tech",
+      "Beauty"
+    ],
+    "price_usd": 36.96,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://s.click.aliexpress.com/e/EXAMPLE",
+    "added_at": 1755083557,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "amazon-viral-61",
+    "title": "Viral Product 61",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "affiliate",
+    "source": "amazon",
+    "categories": [
+      "Tech",
+      "Decor"
+    ],
+    "price_usd": 182.06,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.amazon.com/dp/REPLACE_ASIN",
+    "added_at": 1755083497,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "amazon-viral-62",
+    "title": "Viral Product 62",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "affiliate",
+    "source": "amazon",
+    "categories": [
+      "Fashion",
+      "Fitness"
+    ],
+    "price_usd": 58.37,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.amazon.com/dp/REPLACE_ASIN",
+    "added_at": 1755083437,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-63",
+    "title": "Viral Product 63",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Auto",
+      "Home"
+    ],
+    "price_usd": 53.49,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755083377,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "amazon-viral-64",
+    "title": "Viral Product 64",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "affiliate",
+    "source": "amazon",
+    "categories": [
+      "Collectibles",
+      "Toys"
+    ],
+    "price_usd": 127.05,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.amazon.com/dp/REPLACE_ASIN",
+    "added_at": 1755083317,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-65",
+    "title": "Viral Product 65",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Outdoors",
+      "Gadgets"
+    ],
+    "price_usd": 16.0,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755083257,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-66",
+    "title": "Viral Product 66",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Gadgets",
+      "Home"
+    ],
+    "price_usd": 25.33,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755083197,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "aliexpress-viral-67",
+    "title": "Viral Product 67",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "aliexpress",
+    "categories": [
+      "Accessories",
+      "Decor"
+    ],
+    "price_usd": 102.59,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://s.click.aliexpress.com/e/EXAMPLE",
+    "added_at": 1755083137,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "aliexpress-viral-68",
+    "title": "Viral Product 68",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "aliexpress",
+    "categories": [
+      "Toys",
+      "Office"
+    ],
+    "price_usd": 131.94,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://s.click.aliexpress.com/e/EXAMPLE",
+    "added_at": 1755083077,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-69",
+    "title": "Viral Product 69",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Accessories",
+      "Collectibles"
+    ],
+    "price_usd": 70.96,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755083017,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-70",
+    "title": "Viral Product 70",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Tech",
+      "Pets"
+    ],
+    "price_usd": 79.17,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755082957,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-71",
+    "title": "Viral Product 71",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Gaming",
+      "Outdoors"
+    ],
+    "price_usd": 188.78,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755082897,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-72",
+    "title": "Viral Product 72",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Tools",
+      "Toys"
+    ],
+    "price_usd": 103.45,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755082837,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-73",
+    "title": "Viral Product 73",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Pets",
+      "Tools"
+    ],
+    "price_usd": 38.88,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755082777,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "amazon-viral-74",
+    "title": "Viral Product 74",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "affiliate",
+    "source": "amazon",
+    "categories": [
+      "Collectibles",
+      "Outdoors"
+    ],
+    "price_usd": 184.16,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.amazon.com/dp/REPLACE_ASIN",
+    "added_at": 1755082717,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-75",
+    "title": "Viral Product 75",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Accessories",
+      "Collectibles"
+    ],
+    "price_usd": 49.5,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755082657,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "amazon-viral-76",
+    "title": "Viral Product 76",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "affiliate",
+    "source": "amazon",
+    "categories": [
+      "Gifts",
+      "Pets"
+    ],
+    "price_usd": 164.26,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.amazon.com/dp/REPLACE_ASIN",
+    "added_at": 1755082597,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-77",
+    "title": "Viral Product 77",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Gaming",
+      "Home"
+    ],
+    "price_usd": 13.29,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755082537,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-78",
+    "title": "Viral Product 78",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Beauty",
+      "Toys"
+    ],
+    "price_usd": 22.85,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755082477,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "aliexpress-viral-79",
+    "title": "Viral Product 79",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "aliexpress",
+    "categories": [
+      "Decor",
+      "Tech"
+    ],
+    "price_usd": 121.53,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://s.click.aliexpress.com/e/EXAMPLE",
+    "added_at": 1755082417,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-80",
+    "title": "Viral Product 80",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Toys",
+      "Collectibles"
+    ],
+    "price_usd": 95.49,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755082357,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-81",
+    "title": "Viral Product 81",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Pets",
+      "Beauty"
+    ],
+    "price_usd": 18.98,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755082297,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "amazon-viral-82",
+    "title": "Viral Product 82",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "affiliate",
+    "source": "amazon",
+    "categories": [
+      "Beauty",
+      "Fashion"
+    ],
+    "price_usd": 115.37,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.amazon.com/dp/REPLACE_ASIN",
+    "added_at": 1755082237,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-83",
+    "title": "Viral Product 83",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Office",
+      "Kitchen"
+    ],
+    "price_usd": 164.45,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755082177,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-84",
+    "title": "Viral Product 84",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Skincare",
+      "DIY"
+    ],
+    "price_usd": 194.66,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755082117,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-85",
+    "title": "Viral Product 85",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Fitness",
+      "Office"
+    ],
+    "price_usd": 26.75,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755082057,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "aliexpress-viral-86",
+    "title": "Viral Product 86",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "aliexpress",
+    "categories": [
+      "Gifts",
+      "Outdoors"
+    ],
+    "price_usd": 170.05,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://s.click.aliexpress.com/e/EXAMPLE",
+    "added_at": 1755081997,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "amazon-viral-87",
+    "title": "Viral Product 87",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "affiliate",
+    "source": "amazon",
+    "categories": [
+      "Tools",
+      "Office"
+    ],
+    "price_usd": 158.0,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.amazon.com/dp/REPLACE_ASIN",
+    "added_at": 1755081937,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-88",
+    "title": "Viral Product 88",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Gadgets",
+      "Decor"
+    ],
+    "price_usd": 39.46,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755081877,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "temu-viral-89",
+    "title": "Viral Product 89",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "temu",
+    "categories": [
+      "Beauty",
+      "Office"
+    ],
+    "price_usd": 121.04,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.temu.com/product-p-EXAMPLE.html",
+    "added_at": 1755081817,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "amazon-viral-90",
+    "title": "Viral Product 90",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "affiliate",
+    "source": "amazon",
+    "categories": [
+      "Fashion",
+      "Pets"
+    ],
+    "price_usd": 21.64,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.amazon.com/dp/REPLACE_ASIN",
+    "added_at": 1755081757,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "aliexpress-viral-91",
+    "title": "Viral Product 91",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "aliexpress",
+    "categories": [
+      "Tech",
+      "Beauty"
+    ],
+    "price_usd": 165.14,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://s.click.aliexpress.com/e/EXAMPLE",
+    "added_at": 1755081697,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-92",
+    "title": "Viral Product 92",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Collectibles",
+      "Pets"
+    ],
+    "price_usd": 152.71,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755081637,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-93",
+    "title": "Viral Product 93",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Fitness",
+      "Fashion"
+    ],
+    "price_usd": 155.9,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755081577,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-94",
+    "title": "Viral Product 94",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Tools",
+      "Home"
+    ],
+    "price_usd": 44.96,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755081517,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "pod-viral-95",
+    "title": "Viral Product 95",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "pod",
+    "source": "pod",
+    "categories": [
+      "Gadgets",
+      "Toys"
+    ],
+    "price_usd": 63.06,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.redbubble.com/people/example",
+    "added_at": 1755081457,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "amazon-viral-96",
+    "title": "Viral Product 96",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "affiliate",
+    "source": "amazon",
+    "categories": [
+      "Gadgets",
+      "Tools"
+    ],
+    "price_usd": 42.24,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.amazon.com/dp/REPLACE_ASIN",
+    "added_at": 1755081397,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "amazon-viral-97",
+    "title": "Viral Product 97",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "affiliate",
+    "source": "amazon",
+    "categories": [
+      "Gadgets",
+      "Gifts"
+    ],
+    "price_usd": 87.03,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://www.amazon.com/dp/REPLACE_ASIN",
+    "added_at": 1755081337,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "aliexpress-viral-98",
+    "title": "Viral Product 98",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "aliexpress",
+    "categories": [
+      "Decor",
+      "Toys"
+    ],
+    "price_usd": 53.48,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://s.click.aliexpress.com/e/EXAMPLE",
+    "added_at": 1755081277,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "aliexpress-viral-99",
+    "title": "Viral Product 99",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "aliexpress",
+    "categories": [
+      "Gadgets",
+      "Auto"
+    ],
+    "price_usd": 88.58,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://s.click.aliexpress.com/e/EXAMPLE",
+    "added_at": 1755081217,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  },
+  {
+    "id": "aliexpress-viral-100",
+    "title": "Viral Product 100",
+    "description": "Trending item with high engagement \u2014 perfect for social shoppers.",
+    "type": "dropship",
+    "source": "aliexpress",
+    "categories": [
+      "Office",
+      "Tech"
+    ],
+    "price_usd": 67.71,
+    "image": "assets/logo_dark.png",
+    "video": "",
+    "url": "https://s.click.aliexpress.com/e/EXAMPLE",
+    "added_at": 1755081157,
+    "tags": [
+      "#viral",
+      "#tiktokmademebuyit",
+      "#shopping",
+      "#deal",
+      "#musthave",
+      "#gadget",
+      "#lifehack",
+      "#buzzkart"
+    ]
+  }
+]

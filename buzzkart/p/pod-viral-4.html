@@ -1,0 +1,11 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Redirecting…</title>
+<script>
+const cfg={amazon_tag:'',temu_affiliate_id:'',utm_source:'buzzkart'};
+const url="https://www.redbubble.com/people/example";
+function apply(u){try{const x=new URL(u);
+ if(x.hostname.includes('amazon.')&&cfg.amazon_tag&&!x.searchParams.get('tag'))x.searchParams.set('tag',cfg.amazon_tag);
+ if(x.hostname.includes('temu.')&&cfg.temu_affiliate_id&&!x.searchParams.get('affiliateId'))x.searchParams.set('affiliateId',cfg.temu_affiliate_id);
+ if(cfg.utm_source&&!x.searchParams.get('utm_source'))x.searchParams.set('utm_source',cfg.utm_source);
+ location.replace(x.toString());}catch(e){location.replace(u);}}
+apply(url);
+</script></head><body>Redirecting…</body></html>

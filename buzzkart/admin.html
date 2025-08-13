@@ -1,0 +1,110 @@
+
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>BuzzKart Admin</title><link rel="icon" href="assets/logo_dark.png">
+<link rel="stylesheet" href="style.css"/>
+<style>.admin{max-width:880px;margin:20px auto;padding:16px;background:var(--card);border:1px solid var(--border);border-radius:16px}
+.row{display:grid;grid-template-columns:160px 1fr;gap:10px;margin:8px 0}
+.row input,.row select,.row textarea{padding:10px;border-radius:10px;border:1px solid var(--border);background:var(--btn);color:var(--fg)}
+.btns{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+pre{white-space:pre-wrap;background:var(--btn);padding:10px;border-radius:10px}</style>
+</head><body>
+<header><div class="topbar"><div class="brand"><img src="assets/logo_dark.png"/><h1>BuzzKart — Admin</h1></div>
+<div class="controls"><a href="index.html" style="text-decoration:none;color:var(--fg)">← Back</a></div></div></header>
+<main class="container">
+  <div class="admin">
+    <h2>Sign in</h2>
+    <div class="row"><label>Password</label><input id="pw" type="password" placeholder="Enter admin password"></div>
+    <div class="btns"><button id="login">Unlock Admin</button></div>
+  </div>
+
+  <div class="admin" id="panel" style="display:none">
+    <h2>One-click Affiliate Setup</h2>
+    <div class="row"><label>Temu affiliateId</label><input id="temuId" placeholder="YOUR_TEMU_ID"></div>
+    <div class="row"><label>Amazon tag</label><input id="amzTag" placeholder="YOURTAG-20"></div>
+    <div class="row"><label>UTM source</label><input id="utm" placeholder="buzzkart"></div>
+    <div class="btns"><button id="saveCfg">Download updated config.json</button></div>
+
+    <h2 style="margin-top:24px">Add product</h2>
+    <div class="row"><label>Product URL</label><input id="url" placeholder="Paste product link"/></div>
+    <div class="row"><label>Title</label><input id="title" placeholder="Auto or enter"/></div>
+    <div class="row"><label>Description</label><textarea id="desc" rows="3" placeholder="Short caption"></textarea></div>
+    <div class="row"><label>Price USD</label><input id="price" type="number" step="0.01" placeholder="e.g. 19.99"/></div>
+    <div class="row"><label>Source</label>
+      <select id="source"><option value="temu">Temu</option><option value="aliexpress">AliExpress</option><option value="amazon">Amazon</option><option value="pod">POD</option></select>
+    </div>
+    <div class="row"><label>Categories</label><input id="cats" placeholder="e.g. Home,Decor,Gadgets"/></div>
+    <div class="row"><label>Image</label><input id="image" placeholder="assets/your-image.jpg"/></div>
+    <div class="row"><label>Video (optional)</label><input id="video" placeholder="https://...mp4"/></div>
+    <div class="row"><label>Tags (hashtags)</label><input id="tags" placeholder="#viral,#shopping"/></div>
+    <div class="btns">
+      <button id="auto">Auto-fill from URL (best effort)</button>
+      <button id="add">Generate files</button>
+    </div>
+    <p id="msg"></p>
+    <h3>JSON to paste into products.json</h3>
+    <pre id="jsonOut"></pre>
+  </div>
+</main>
+<script>
+let cfg={admin_password:'CHANGE_ME', amazon_tag:'',temu_affiliate_id:'',utm_source:'buzzkart'};
+async function loadCfg(){try{const r=await fetch('config.json');cfg=await r.json();}catch(e){}}
+function slugify(s){return s.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'');}
+function guessSource(u){try{const x=new URL(u);if(x.hostname.includes('temu.'))return'temu';if(x.hostname.includes('aliexpress.'))return'aliexpress';if(x.hostname.includes('amazon.'))return'amazon';}catch(e){}return'dropship';}
+document.getElementById('login').addEventListener('click',()=>{
+  const pw=document.getElementById('pw').value.trim();
+  if(pw && pw===cfg.admin_password){document.getElementById('panel').style.display='block';}else{alert('Wrong password');}
+});
+document.getElementById('auto').addEventListener('click',()=>{
+  const u=document.getElementById('url').value.trim();
+  if(!u)return alert('Paste a product URL first.');
+  document.getElementById('source').value=guessSource(u);
+  const t=document.getElementById('title'); if(!t.value)t.value=u.split('/').pop().split('?')[0].replace(/[-_]/g,' ').slice(0,80);
+  const img=document.getElementById('image'); if(!img.value)img.value='assets/auto-'+Math.random().toString(36).slice(2)+'.jpg';
+  document.getElementById('msg').textContent='Auto-filled basics. Edit anything, then click "Generate files".';
+});
+document.getElementById('add').addEventListener('click',()=>{
+  const url=document.getElementById('url').value.trim();
+  const title=document.getElementById('title').value.trim();
+  const description=document.getElementById('desc').value.trim();
+  const price=parseFloat(document.getElementById('price').value||'0');
+  const source=document.getElementById('source').value;
+  const categories=document.getElementById('cats').value.split(',').map(s=>s.trim()).filter(Boolean);
+  const image=document.getElementById('image').value.trim()||'assets/placeholder.jpg';
+  const video=document.getElementById('video').value.trim();
+  const tags=document.getElementById('tags').value.split(',').map(s=>s.trim()).filter(Boolean);
+  if(!url||!title||!price){alert('Please enter URL, Title, and Price.');return;}
+  const id = slugify((source||'item')+'-'+title);
+  const obj = {id, title, description, type: (source==='amazon'?'affiliate':(source==='pod'?'pod':'dropship')), source, categories, price_usd: price, image, video, url, added_at: Math.floor(Date.now()/1000), tags};
+  const json = JSON.stringify(obj, null, 2);
+  document.getElementById('jsonOut').textContent=json;
+  // Build redirect page content
+  const red = `<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Redirecting…</title>
+<script>
+const cfg={{amazon_tag:'${cfg.get('amazon_tag','')}',temu_affiliate_id:'${cfg.get('temu_affiliate_id','')}',utm_source:'${cfg.get('utm_source','buzzkart')}'}};
+const url={url_json};
+function apply(u){{try{{const x=new URL(u);
+ if(x.hostname.includes('amazon.')&&cfg.amazon_tag&&!x.searchParams.get('tag'))x.searchParams.set('tag',cfg.amazon_tag);
+ if(x.hostname.includes('temu.')&&cfg.temu_affiliate_id&&!x.searchParams.get('affiliateId'))x.searchParams.set('affiliateId',cfg.temu_affiliate_id);
+ if(cfg.utm_source&&!x.searchParams.get('utm_source'))x.searchParams.set('utm_source',cfg.utm_source);
+ return x.toString();}}catch(e){{return u;}}}}
+location.replace(apply(url));
+</script></head><body>Redirecting…</body></html>`
+    .replace('{url_json}', JSON.stringify(url));
+  const blob = new Blob([red], {type:'text/html'});
+  const a = document.createElement('a'); a.href=URL.createObjectURL(blob); a.download = 'p/'+id+'.html'; a.click();
+  document.getElementById('msg').textContent='Downloaded redirect file p/'+id+'.html. Paste the JSON above into products.json and upload both.';
+});
+document.getElementById('saveCfg').addEventListener('click',()=>{
+  const obj={
+    admin_password: cfg.admin_password,
+    amazon_tag: document.getElementById('amzTag').value.trim(),
+    temu_affiliate_id: document.getElementById('temuId').value.trim(),
+    utm_source: document.getElementById('utm').value.trim()||'buzzkart'
+  };
+  const blob=new Blob([JSON.stringify(obj,null,2)],{type:'application/json'});
+  const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='config.json';a.click();
+});
+loadCfg();
+</script>
+</body></html>
